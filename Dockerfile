@@ -7,3 +7,5 @@ ADD target/microservice-for-docker-demo-1.0.jar microservice-for-docker-demo-1.0
 EXPOSE 9999
 
 CMD ["java","-jar","microservice-for-docker-demo-1.0.jar"]
+
+
