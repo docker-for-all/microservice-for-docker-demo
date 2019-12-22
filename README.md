@@ -5,7 +5,7 @@ This spring boot project is a very basic implementation of a microservice which 
 ## Create Image
 
 ```bash
-docker build -t <name-of-dockerhub-username>/<image-name>:<tag> .
+docker image build -t <name-of-dockerhub-username>/<image-name>:<tag> .
 ```
 
 ## Run Container
