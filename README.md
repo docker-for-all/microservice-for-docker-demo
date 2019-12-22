@@ -30,4 +30,4 @@ For any queries or doubts please drop a mail at [cloudnativeview@gmail.com](http
 
 ## NOTE
 
-I will definitely improve the content over the time. ![](https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c4c4.png)
+I will definitely improve the content over the time. Happy Learning..!!!  ![Smiley](https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c4c4.png)
