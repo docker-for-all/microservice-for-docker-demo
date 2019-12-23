@@ -6,7 +6,8 @@ This spring boot project is a very basic implementation of a microservice which 
 ## Prerequisite
 
 This microservice has a dependency of MySQL database, so before starting this microservice make sure that 
-MySQL service is running in your machine over the container Use below command to create a MySQL container.
+MySQL service is running in your machine over the container. Use below command to create a network and
+MySQL container.
 
 
 ## Create network 
